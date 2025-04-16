@@ -7,7 +7,7 @@
 
 ### 🧑‍💻 About Me:
 - 🌱 I’m currently learning **Network Security, Python & OT Cybersecurity**
-- 📫 Reach me at: reshav1239@gmail.com
+- 📫 Reach me at: reshav.bhadani@gmail.com
 - 💡 *“The quieter you become, the more you are able to hear.”* — Rumi
 
 ---
@@ -26,17 +26,14 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Fortinet-ED1C24?style=for-the-badge&logo=fortinet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ServiceNow-1BB91F?style=for-the-badge&logo=servicenow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UI%2FUX-Design-FF4088?style=for-the-badge"/>
 </p>
 
 ---
-
-### 📊 GitHub Stats:
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reshavbhadani&show_icons=true&locale=en&layout=compact" alt="reshavbhadani" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=reshavbhadani&show_icons=true&locale=en" alt="reshavbhadani" />
-</p>
 
