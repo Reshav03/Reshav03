@@ -8,7 +8,7 @@
 ### 🧑‍💻 About Me:
 - 🌱 I’m currently learning **Network Security, Python & OT Cybersecurity**
 - 📫 Reach me at: reshav.bhadani@gmail.com
-- 🌐 <a href="https://bespoke-lollipop-dcff79.netlify.app/" alt="Netlify Published">View My Portfolio</a>
+- 💼 See my experience <a href="https://bespoke-lollipop-dcff79.netlify.app/" alt="Netlify Published">View My Portfolio</a>
 - 💡 *“The quieter you become, the more you are able to hear.”* — Rumi
 
 ---
